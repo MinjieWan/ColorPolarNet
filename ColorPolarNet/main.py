@@ -17,14 +17,14 @@ flags = tf.flags#tf.app.flags
 FLAGS = flags.FLAGS
 flags.DEFINE_boolean("is_train",False, "if the train")
 flags.DEFINE_boolean("is_eval",False, "if the evaluation")
-flags.DEFINE_string("train_set_input", "train/input", "name of the train input set")  
-flags.DEFINE_string("train_set_label", "train/label", "name of the train label set")
-flags.DEFINE_string("eval_set_input", 'eval/input','eval_set_input')  
-flags.DEFINE_string("eval_set_label", 'eval/label','eval_set_label')  
+flags.DEFINE_string("train_set_input", "LLCP/train/input", "name of the train input set")  
+flags.DEFINE_string("train_set_label", "LLCP/train/label", "name of the train label set")
+flags.DEFINE_string("eval_set_input", 'LLCP/eval/input','eval_set_input')  
+flags.DEFINE_string("eval_set_label", 'LLCP/eval/label','eval_set_label')  
 
 
-flags.DEFINE_string("output_dir", "test/output", "test output")
-flags.DEFINE_string("test_set", "test/input", "test input")
+flags.DEFINE_string("output_dir", "LLCP/test/output", "test output")
+flags.DEFINE_string("test_set", "LLCP/test/input", "test input")
 flags.DEFINE_integer("image_size", 64, "the height of image input")
 flags.DEFINE_integer("c_dim", 3, "size of channel")  
 flags.DEFINE_integer("P_dim", 1, "the size of channel")  
