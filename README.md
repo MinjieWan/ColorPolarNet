@@ -8,7 +8,11 @@ We provide the LLCP dataset of our paper. You can download them by the following
 [[LLCP (Baidu Drive pw:llcp)](https://pan.baidu.com/s/1GdSwq6pi19vhESb1VEh_Vg?pwd=llcp)]
 
 ## Requirements
-Python 3 and Tensorflow >= 1.13.
+- Python 3.6
+- Tensorflow 1.13
+- CUDA10.0 and cuDNN
+- h5py 2.8
+- opencv
 ## Usage
 - Download and release LLCP.zip. Put the LLCP folder in the ColorPolarNet folder. 
 - Setup the required parameters in the main scripts.
