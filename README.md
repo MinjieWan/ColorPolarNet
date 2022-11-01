@@ -1,5 +1,5 @@
-# ColorPolarNet: Residual Dense Network-Based Chromatic Intensity-Polarization Imaging in Low Light Environment
-This repository contains the codes for paper **ColorPolarNet: Residual Dense Network Based Chromatic Intensity-Polarization Imaging in Low Light Environment** by Xiuyu Xu, Minjie Wan*, Junyu Ge, et al. (*Corresponding author).
+# ColorPolarNet: Residual Dense Network-Based Chromatic Intensity-Polarization Imaging in Low-Light Environment
+This repository contains the codes for paper **ColorPolarNet: Residual Dense Network Based Chromatic Intensity-Polarization Imaging in Low-Light Environment** by Xiuyu Xu, Minjie Wan*, Junyu Ge, et al. (*Corresponding author).
 
 The overall repository style is partially borrowed from IPLNet (https://github.com/Dismoon/IPLNet). Thanks to Haofeng Hu.
 
