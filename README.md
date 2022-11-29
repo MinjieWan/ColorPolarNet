@@ -4,8 +4,8 @@ This repository contains the codes for paper **ColorPolarNet: Residual Dense Net
 The overall repository style is partially borrowed from IPLNet (https://github.com/Dismoon/IPLNet). Thanks to Haofeng Hu.
 
 We provide the LLCP dataset of our paper. You can download them by the following link.
-[[LLCP (Google Drive)]](https://drive.google.com/file/d/1mwSipM3RB-7dIOywgF9UGvx_ghwqDcGO/view?usp=sharing)
-[[LLCP (Baidu Drive pw:llcp)](https://pan.baidu.com/s/1GdSwq6pi19vhESb1VEh_Vg?pwd=llcp)]
+[[LLCP (Google Drive)]](https://drive.google.com/file/d/18f4e7z4eakeYKGI8Hl7zRRZD--GSCPws/view?usp=sharing)
+[[LLCP (Baidu Drive pw:85eg)](https://pan.baidu.com/s/1JaMtABYMhlKWJdsLy6QZnw?pwd=85eg)]
 
 ## Requirements
 - Python 3.6
