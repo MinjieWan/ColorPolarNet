@@ -16,5 +16,5 @@ We provide the LLCP dataset of our paper. You can download them by the following
 ## Usage
 - Download and release LLCP.zip. Put the LLCP folder in the ColorPolarNet folder. 
 - Setup the required parameters in the main scripts.
-- run main.py for training or testing.
+- Run main.py for training or testing.
 
